@@ -1,0 +1,11 @@
+.espaco {
+  height: 100vh;
+  background-color: var(--color-blue-4);
+}
+
+main {
+  height: auto;
+  background-color: var(--color-blue-4);
+  z-index: 2;
+  padding-bottom: 64px;
+}
