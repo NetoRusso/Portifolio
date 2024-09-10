@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <p>Desenvolvi um portfólio personalizado para demonstrar minhas habilidades e experiência em desenvolvimento web. O projeto, construído com React.js e otimizado para SEO, apresenta um portfólio interativo com meus principais trabalhos. Através de animações e um design responsivo, o microsite oferece uma experiência imersiva e intuitiva, facilitando a navegação e o entendimento do meu perfil. Além disso, incluí um roadmap detalhado que demonstra minha trajetória profissional e meus objetivos futuros. Tenho certeza de que minha experiência e paixão pelo desenvolvimento web podem agregar grande valor a qualquer equipe</p>
 
 - <h4>Portifólio</h4>
-	![Acesse](https://netorusso.onrender.com/)
+	[Acesse](https://netorusso.onrender.com/)
 
 __________________________________________________________________________________________________________________________________________________
 
