@@ -89,7 +89,7 @@ const PainelContatos = () => {
         />
 
         <a 
-          href="https://drive.usercontent.google.com/uc?id=1e-UK6nvx_66OE6AeBhtxBP4LIceJj4Ic&export=download"
+          href="https://drive.usercontent.google.com/uc?id=1v1uuzI3geibuyMIsGHBZVUKvdPpQOWpt&export=download"
           target="_blank"
           rel="noreferrer"
           title={t("PainelContatos.rede_download")}
